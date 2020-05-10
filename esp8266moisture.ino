@@ -13,7 +13,7 @@
 // user config: TODO
 #define  MOISTURE_THRESHOLD     55   // moisture alert threshold
 const char* wifi_ssid = "HOME";             // SSID
-const char* wifi_password = "southampton";         // WIFI
+const char* wifi_password = "********";         // WIFI
 const char* apiKeyIn = "CJf8mKDnIk8iH0UZkgOi3zaYZYrwJ8yZ";      // API KEY IN
 const unsigned int writeInterval = 25000; // write interval (in ms)
 
