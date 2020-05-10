@@ -1,8 +1,6 @@
 # Soil-Humidity-1
 Soil Humidity sensor with ESP8266, sending data to AskSensors
 
-# AskSensors ESP8266 Moisture
-
 Documentation:
 https://www.instructables.com/id/How-to-Connect-Soil-Moisture-Sensor-and-ESP8266-to/
 
