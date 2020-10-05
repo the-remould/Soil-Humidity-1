@@ -4,7 +4,7 @@
 // replace with your channel’s thingspeak API key and your SSID and password
 String apiKey = "YZPXLWIEYF2MIUQB";
 const char* ssid = "NuCom_33B1E8";
-const char* password = "12345678";
+const char* password = "********";
 const char* server = "api.thingspeak.com";
  
 #define DHTPIN D2
