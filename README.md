@@ -1,7 +1,7 @@
 # Soil-Humidity-1
-Soil Humidity sensor with ESP8266, sending data to AskSensors
+Soil Humidity sensor with ESP8266, sending data to Thingspeak
 
 Documentation:
-https://www.instructables.com/id/How-to-Connect-Soil-Moisture-Sensor-and-ESP8266-to/
+http://www.esp8266learning.com/dht11-sensor-data-to-thingspeak-using-a-wemos-d1.php
 
-apiKeyIn = "CJf8mKDnIk8iH0UZkgOi3zaYZYrwJ8yZ"
+apiKeyIn = ""
