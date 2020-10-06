@@ -1,7 +1,6 @@
 # Soil-Humidity-1
-Soil Humidity sensor with ESP8266, sending data to Thingspeak
+Soil Humidity sensor with WEMOS D1 Mini Pro (ESP8266), sending data to Thingspeak
 
-Documentation:
-http://www.esp8266learning.com/dht11-sensor-data-to-thingspeak-using-a-wemos-d1.php
+Tutorial:
+https://how2electronics.com/monitor-soil-moisture-sensor-nodemcu-thingspeak/
 
-apiKeyIn = "YZPXLWIEYF2MIUQB"
