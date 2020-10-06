@@ -1,4 +1,4 @@
-# Soil-Humidity-1
+# Soil-Humidity-Monitor
 Soil Humidity sensor with WEMOS D1 Mini Pro (ESP8266), sending data to Thingspeak
 
 Tutorial:
